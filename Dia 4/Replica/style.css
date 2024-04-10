@@ -8,14 +8,15 @@
     margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
 } */
 .pagina1{
-    background-color: rgb(23, 22, 22);
+    background-color: rgb(12, 11, 11);
     float: center;
-    height: 900px;
+    height: 950px;
     width: 900px;
-
+    border-radius: 2%;
+   
 }
 
-#imagen1{
+.imagen1{
     width: 500px; 
     border-radius: 2%;  
     float: right; 
@@ -25,31 +26,148 @@
 .imagen2{
  
     width: 150px;
-    float: left;
+    top:1%;
+    left: 8;
+    border-radius: 2%;  
+    position: absolute;
 
 }
 .imagen3{
    
     width: 150px;
     top:25%;
-    left: 27%;
+    left: 25%;
+    border-radius: 2%;  
     position: absolute;
 
 }
 .imagen4 {
    
     width: 50px;
-    top:95%;
-    left: 27%;
+    top:100%; 
+    left: 40%;
+    position: absolute;
+    
+}
+.imagen5 {
+   
+    width: 50px;
+    top:4%;
+    border-radius: 2%;  
+    left: 700%;
     position: absolute;
     
 
 }
-.gid-container{
-    display: grid;
-    gap: 80px;
-    background-color: whitesmoke;
-    padding: 1;
-    margin: 23%
-    border-radius
+
+.pagina2 {
+    margin-top: 20px;
+    background-color: rgb(12, 11, 11);
+    float: center;
+    height: 600px;
+    width: 900px;
+   border-radius: 2%;
 }
+
+.pagina3{
+    margin-top: 20px;
+    background-color: rgb(26, 24, 24);
+    float: center;
+    height: 950px;
+    width: 900px;
+    border-radius: 2%;
+   
+}
+.imagen6 {
+    width: 500px; 
+    top: 165%;
+    border-radius: 2%;  
+    left: 13%;
+    position: absolute; 
+    float: right; 
+}
+.imagen7 {
+    width: 500px; 
+    top: 80%;
+    border-radius: 2%;  
+    left: 37%;
+    position: absolute; 
+    float: right; 
+}
+.imagen8 { 
+    
+    width: 800px; 
+    top: 170%;
+    border-radius: 2%;  
+    left: 7%;
+    position: absolute; 
+}
+.imagen9 { 
+    
+    width: 500px; 
+    top: 1%;
+    border-radius: 2%;  
+    left: 130%;
+    position: absolute; 
+}
+
+.imagen10 { 
+    
+    width: 350px; 
+    top: 90%;
+    border-radius: 2%;  
+    left: 15%;
+    position: absolute; 
+}
+.imagen11 { 
+    
+    width: 500px; 
+    top: 95%;
+    border-radius: 2%;  
+    right: -20%;
+    position: absolute; 
+}
+
+.pagina4{
+    margin-top: 20px;
+    background-color: rgb(26, 24, 24);
+    float: center;
+    height: 1050px;
+    width: 900px;
+    border-radius: 2%;
+   
+}
+.imagen12 { 
+    
+    width: 1000px; 
+    top: 271%;
+    border-radius: 2%;  
+    right: 22.75%;
+    position: absolute; 
+}
+.imagen13 { 
+    
+    width: 1000px; 
+    top: 308%;
+    border-radius: 2%;  
+    right: 19%;
+    position: absolute; 
+}
+.imagen14 { 
+    
+    width: 1000px; 
+    top: 324%;
+    border-radius: 2%;  
+    right: -4%;
+    position: absolute; 
+}
+.imagen15 { 
+    
+    width: 1000px; 
+    top: 351%;
+    border-radius: 2%;  
+    right: -4%;
+    position: absolute; 
+} 
+   
+
