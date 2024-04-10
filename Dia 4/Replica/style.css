@@ -73,14 +73,14 @@
     margin-top: 20px;
     background-color: rgb(26, 24, 24);
     float: center;
-    height: 950px;
-    width: 900px;
+    height: 970px;
+    width: 970px;
     border-radius: 2%;
    
 }
 .imagen6 {
     width: 500px; 
-    top: 165%;
+    top: 167%;
     border-radius: 2%;  
     left: 13%;
     position: absolute; 
